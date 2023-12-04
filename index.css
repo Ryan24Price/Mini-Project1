@@ -51,7 +51,9 @@ form {
   
   /* Add padding to containers */
   .container {
-    padding: 16px;
+    padding: 475px;
+    margin-top: -850;
+
   }
   
   /* The "Forgot password" text */

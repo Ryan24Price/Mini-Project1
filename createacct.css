@@ -40,6 +40,7 @@ button:hover {
 /* Add padding to container elements */
 .container {
   padding: 700px;
+  margin-top: -500px;
 }
 
 /* Clear floats */
@@ -55,3 +56,4 @@ button:hover {
     width: 100%;
   }
 }
+
